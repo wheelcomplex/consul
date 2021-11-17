@@ -167,7 +167,7 @@
     "sass": "^1.28.0",
     "tape": "^5.0.1",
     "text-encoding": "^0.7.0",
-    "tippy.js": "^6.2.7",
+    "tippy.js": "^6.3.7",
     "torii": "^0.10.1",
     "wayfarer": "^7.0.1"
   },
